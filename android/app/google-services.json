@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857244444091",
+    "firebase_url": "https://loja-silhuetabaiana.firebaseio.com",
+    "project_id": "loja-silhuetabaiana",
+    "storage_bucket": "loja-silhuetabaiana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857244444091:android:6eec7583e57d35bd38509e",
+        "android_client_info": {
+          "package_name": "br.com.farias.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857244444091-9ajkrnrj397irhffhbbtvgo4d84l3a49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRvUdejWk436LsamWN1AJVokqg9Me_o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857244444091-9ajkrnrj397irhffhbbtvgo4d84l3a49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
