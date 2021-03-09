@@ -1,4 +1,5 @@
 # lojavirtual
+Aplicação para loja virtual da Silhuetta Baiana
 
 A new Flutter application.
 
